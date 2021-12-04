@@ -7,6 +7,7 @@ There is also the unzipped dontsee.txt.
 The stage-<number>.txt files contain the ciphers obtained at each stage.
 The final.txt file contains the final message. 
 The script can be run to produce all these files.
+The script also produces some randomoutput files that we have used to proceed.
 But opening the zip will be required.
 
   
